@@ -19,6 +19,7 @@ N/A
 
 ## FUNCTIONALITY
 ----------------
+The live site for the application can be found at: https://august-lascola.github.io/Random-Password/ 
 Upon loading the page, the user will be met with a box that will provide their generated password, as well as a button reading "Generate Password".
 
 Upon clicking the button, the user will be prompted to input the length of their desired password--between 8 and 128 characters. If their input does not fit 
